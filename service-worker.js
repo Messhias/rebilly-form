@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/rebilly-form/precache-manifest.3429af77376b3c0e6a14434646a9ecf6.js"
+  "/rebilly-form/precache-manifest.d749c020c04df7dcb348250bdd0b3311.js"
 );
 
 self.addEventListener('message', (event) => {
